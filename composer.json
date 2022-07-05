@@ -1,0 +1,10 @@
+{
+    "name": "brian/news-rack",
+    "type": "project",
+    "require": {
+        "fabpot/goutte": "^4.0"
+    },
+    "autoload": {
+        "files": ["vendor/fabpot/goutte/Goutte/Client.php"]
+    }
+}
